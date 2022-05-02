@@ -1,4 +1,3 @@
-bip39
 requests
 py-bip39-bindings
 pynacl
